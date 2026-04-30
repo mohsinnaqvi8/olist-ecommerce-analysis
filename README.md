@@ -18,3 +18,7 @@ Performed end-to-end data analysis on a real-world e-commerce dataset (100K+ ord
 
 ## Tools Used
 - SQL (DuckDB)
+
+## Repository Contents
+- queries.sql → SQL queries used for analysis
+- README.md → Project overview and insights
