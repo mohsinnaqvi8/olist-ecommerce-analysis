@@ -20,5 +20,6 @@ Performed end-to-end data analysis on a real-world e-commerce dataset (100K+ ord
 - SQL (DuckDB)
 
 ## Repository Contents
+- E-commerce_analysis.ipynb (Main Project)
 - queries.sql → SQL queries used for analysis
 - README.md → Project overview and insights
